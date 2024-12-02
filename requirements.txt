@@ -1,3 +1,4 @@
 dash
 gunicorn
 dash-bootstrap-components
+pandas
