@@ -3,3 +3,4 @@ gunicorn
 dash-bootstrap-components
 pandas
 matplotlib
+seaborn
